@@ -1,0 +1,3660 @@
+{
+  "daily_stats": [
+    {
+      "day": 0,
+      "date": "2025-01-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.4
+    },
+    {
+      "day": 7,
+      "date": "2025-01-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 14,
+      "date": "2025-01-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 21,
+      "date": "2025-01-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 28,
+      "date": "2025-01-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 35,
+      "date": "2025-02-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 42,
+      "date": "2025-02-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 49,
+      "date": "2025-02-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 56,
+      "date": "2025-02-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 63,
+      "date": "2025-03-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 70,
+      "date": "2025-03-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 77,
+      "date": "2025-03-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 84,
+      "date": "2025-03-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 91,
+      "date": "2025-04-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 98,
+      "date": "2025-04-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 105,
+      "date": "2025-04-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 112,
+      "date": "2025-04-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 119,
+      "date": "2025-05-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 126,
+      "date": "2025-05-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 133,
+      "date": "2025-05-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 140,
+      "date": "2025-05-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 147,
+      "date": "2025-05-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 154,
+      "date": "2025-06-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 161,
+      "date": "2025-06-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 168,
+      "date": "2025-06-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 175,
+      "date": "2025-06-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 182,
+      "date": "2025-07-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 189,
+      "date": "2025-07-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 196,
+      "date": "2025-07-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 203,
+      "date": "2025-07-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 210,
+      "date": "2025-07-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 217,
+      "date": "2025-08-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 224,
+      "date": "2025-08-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 231,
+      "date": "2025-08-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 238,
+      "date": "2025-08-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 245,
+      "date": "2025-09-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 252,
+      "date": "2025-09-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 259,
+      "date": "2025-09-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 266,
+      "date": "2025-09-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 273,
+      "date": "2025-10-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 280,
+      "date": "2025-10-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 287,
+      "date": "2025-10-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 294,
+      "date": "2025-10-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 301,
+      "date": "2025-10-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 308,
+      "date": "2025-11-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 315,
+      "date": "2025-11-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 322,
+      "date": "2025-11-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 329,
+      "date": "2025-11-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 336,
+      "date": "2025-12-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 343,
+      "date": "2025-12-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 350,
+      "date": "2025-12-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 357,
+      "date": "2025-12-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 364,
+      "date": "2026-01-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 371,
+      "date": "2026-01-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 378,
+      "date": "2026-01-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 385,
+      "date": "2026-01-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 392,
+      "date": "2026-01-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 399,
+      "date": "2026-02-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 406,
+      "date": "2026-02-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 413,
+      "date": "2026-02-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 420,
+      "date": "2026-02-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 427,
+      "date": "2026-03-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 434,
+      "date": "2026-03-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 441,
+      "date": "2026-03-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 448,
+      "date": "2026-03-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 455,
+      "date": "2026-04-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 462,
+      "date": "2026-04-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 469,
+      "date": "2026-04-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 476,
+      "date": "2026-04-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 483,
+      "date": "2026-04-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 490,
+      "date": "2026-05-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 497,
+      "date": "2026-05-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 504,
+      "date": "2026-05-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 511,
+      "date": "2026-05-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 518,
+      "date": "2026-06-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 525,
+      "date": "2026-06-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 532,
+      "date": "2026-06-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 539,
+      "date": "2026-06-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 546,
+      "date": "2026-07-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 553,
+      "date": "2026-07-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 560,
+      "date": "2026-07-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 567,
+      "date": "2026-07-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 574,
+      "date": "2026-07-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 581,
+      "date": "2026-08-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 588,
+      "date": "2026-08-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 595,
+      "date": "2026-08-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 602,
+      "date": "2026-08-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 609,
+      "date": "2026-09-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 616,
+      "date": "2026-09-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 623,
+      "date": "2026-09-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 630,
+      "date": "2026-09-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 637,
+      "date": "2026-10-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 644,
+      "date": "2026-10-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 651,
+      "date": "2026-10-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 658,
+      "date": "2026-10-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 665,
+      "date": "2026-10-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 672,
+      "date": "2026-11-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 679,
+      "date": "2026-11-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 686,
+      "date": "2026-11-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 693,
+      "date": "2026-11-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 700,
+      "date": "2026-12-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 707,
+      "date": "2026-12-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 714,
+      "date": "2026-12-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 721,
+      "date": "2026-12-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 728,
+      "date": "2026-12-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 735,
+      "date": "2027-01-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 742,
+      "date": "2027-01-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 749,
+      "date": "2027-01-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 756,
+      "date": "2027-01-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 763,
+      "date": "2027-02-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 770,
+      "date": "2027-02-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 777,
+      "date": "2027-02-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 784,
+      "date": "2027-02-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 791,
+      "date": "2027-03-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 798,
+      "date": "2027-03-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 805,
+      "date": "2027-03-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 812,
+      "date": "2027-03-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 819,
+      "date": "2027-04-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 826,
+      "date": "2027-04-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 833,
+      "date": "2027-04-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 840,
+      "date": "2027-04-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 847,
+      "date": "2027-04-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 854,
+      "date": "2027-05-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 861,
+      "date": "2027-05-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 868,
+      "date": "2027-05-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 875,
+      "date": "2027-05-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 882,
+      "date": "2027-06-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 889,
+      "date": "2027-06-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 896,
+      "date": "2027-06-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 903,
+      "date": "2027-06-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 910,
+      "date": "2027-07-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 917,
+      "date": "2027-07-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 924,
+      "date": "2027-07-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 931,
+      "date": "2027-07-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 938,
+      "date": "2027-07-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 945,
+      "date": "2027-08-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 952,
+      "date": "2027-08-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 959,
+      "date": "2027-08-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 966,
+      "date": "2027-08-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 973,
+      "date": "2027-09-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 980,
+      "date": "2027-09-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 987,
+      "date": "2027-09-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 994,
+      "date": "2027-09-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1001,
+      "date": "2027-09-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1008,
+      "date": "2027-10-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1015,
+      "date": "2027-10-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1022,
+      "date": "2027-10-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1029,
+      "date": "2027-10-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1036,
+      "date": "2027-11-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1043,
+      "date": "2027-11-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1050,
+      "date": "2027-11-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1057,
+      "date": "2027-11-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1064,
+      "date": "2027-12-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1071,
+      "date": "2027-12-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1078,
+      "date": "2027-12-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1085,
+      "date": "2027-12-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1092,
+      "date": "2027-12-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1099,
+      "date": "2028-01-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1106,
+      "date": "2028-01-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1113,
+      "date": "2028-01-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1120,
+      "date": "2028-01-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1127,
+      "date": "2028-02-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1134,
+      "date": "2028-02-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1141,
+      "date": "2028-02-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1148,
+      "date": "2028-02-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1155,
+      "date": "2028-03-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1162,
+      "date": "2028-03-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1169,
+      "date": "2028-03-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1176,
+      "date": "2028-03-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1183,
+      "date": "2028-03-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1190,
+      "date": "2028-04-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1197,
+      "date": "2028-04-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1204,
+      "date": "2028-04-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1211,
+      "date": "2028-04-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1218,
+      "date": "2028-05-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1225,
+      "date": "2028-05-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1232,
+      "date": "2028-05-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1239,
+      "date": "2028-05-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1246,
+      "date": "2028-06-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1253,
+      "date": "2028-06-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1260,
+      "date": "2028-06-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1267,
+      "date": "2028-06-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1274,
+      "date": "2028-06-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1281,
+      "date": "2028-07-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1288,
+      "date": "2028-07-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1295,
+      "date": "2028-07-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1302,
+      "date": "2028-07-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1309,
+      "date": "2028-08-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1316,
+      "date": "2028-08-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1323,
+      "date": "2028-08-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1330,
+      "date": "2028-08-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1337,
+      "date": "2028-08-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1344,
+      "date": "2028-09-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1351,
+      "date": "2028-09-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1358,
+      "date": "2028-09-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1365,
+      "date": "2028-09-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1372,
+      "date": "2028-10-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1379,
+      "date": "2028-10-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1386,
+      "date": "2028-10-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1393,
+      "date": "2028-10-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1400,
+      "date": "2028-11-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1407,
+      "date": "2028-11-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1414,
+      "date": "2028-11-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1421,
+      "date": "2028-11-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1428,
+      "date": "2028-11-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1435,
+      "date": "2028-12-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1442,
+      "date": "2028-12-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1449,
+      "date": "2028-12-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1456,
+      "date": "2028-12-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1463,
+      "date": "2029-01-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1470,
+      "date": "2029-01-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1477,
+      "date": "2029-01-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1484,
+      "date": "2029-01-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1491,
+      "date": "2029-02-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1498,
+      "date": "2029-02-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1505,
+      "date": "2029-02-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1512,
+      "date": "2029-02-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1519,
+      "date": "2029-03-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1526,
+      "date": "2029-03-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1533,
+      "date": "2029-03-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1540,
+      "date": "2029-03-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1547,
+      "date": "2029-03-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1554,
+      "date": "2029-04-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1561,
+      "date": "2029-04-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1568,
+      "date": "2029-04-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1575,
+      "date": "2029-04-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1582,
+      "date": "2029-05-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1589,
+      "date": "2029-05-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1596,
+      "date": "2029-05-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1603,
+      "date": "2029-05-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1610,
+      "date": "2029-05-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1617,
+      "date": "2029-06-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1624,
+      "date": "2029-06-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1631,
+      "date": "2029-06-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1638,
+      "date": "2029-06-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1645,
+      "date": "2029-07-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1652,
+      "date": "2029-07-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1659,
+      "date": "2029-07-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1666,
+      "date": "2029-07-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1673,
+      "date": "2029-08-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1680,
+      "date": "2029-08-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1687,
+      "date": "2029-08-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1694,
+      "date": "2029-08-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1701,
+      "date": "2029-08-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1708,
+      "date": "2029-09-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1715,
+      "date": "2029-09-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1722,
+      "date": "2029-09-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1729,
+      "date": "2029-09-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1736,
+      "date": "2029-10-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1743,
+      "date": "2029-10-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1750,
+      "date": "2029-10-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1757,
+      "date": "2029-10-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1764,
+      "date": "2029-11-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1771,
+      "date": "2029-11-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1778,
+      "date": "2029-11-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1785,
+      "date": "2029-11-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1792,
+      "date": "2029-11-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1799,
+      "date": "2029-12-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1806,
+      "date": "2029-12-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1813,
+      "date": "2029-12-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1820,
+      "date": "2029-12-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1827,
+      "date": "2030-01-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1834,
+      "date": "2030-01-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1841,
+      "date": "2030-01-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1848,
+      "date": "2030-01-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1855,
+      "date": "2030-01-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1862,
+      "date": "2030-02-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1869,
+      "date": "2030-02-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1876,
+      "date": "2030-02-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1883,
+      "date": "2030-02-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1890,
+      "date": "2030-03-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1897,
+      "date": "2030-03-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1904,
+      "date": "2030-03-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1911,
+      "date": "2030-03-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1918,
+      "date": "2030-04-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1925,
+      "date": "2030-04-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1932,
+      "date": "2030-04-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1939,
+      "date": "2030-04-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1946,
+      "date": "2030-05-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1953,
+      "date": "2030-05-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1960,
+      "date": "2030-05-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1967,
+      "date": "2030-05-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1974,
+      "date": "2030-05-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1981,
+      "date": "2030-06-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1988,
+      "date": "2030-06-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 1995,
+      "date": "2030-06-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2002,
+      "date": "2030-06-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2009,
+      "date": "2030-07-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2016,
+      "date": "2030-07-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2023,
+      "date": "2030-07-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2030,
+      "date": "2030-07-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2037,
+      "date": "2030-08-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2044,
+      "date": "2030-08-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2051,
+      "date": "2030-08-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2058,
+      "date": "2030-08-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2065,
+      "date": "2030-08-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2072,
+      "date": "2030-09-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2079,
+      "date": "2030-09-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2086,
+      "date": "2030-09-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2093,
+      "date": "2030-09-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2100,
+      "date": "2030-10-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2107,
+      "date": "2030-10-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2114,
+      "date": "2030-10-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2121,
+      "date": "2030-10-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2128,
+      "date": "2030-10-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2135,
+      "date": "2030-11-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2142,
+      "date": "2030-11-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2149,
+      "date": "2030-11-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2156,
+      "date": "2030-11-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2163,
+      "date": "2030-12-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2170,
+      "date": "2030-12-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2177,
+      "date": "2030-12-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2184,
+      "date": "2030-12-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2191,
+      "date": "2031-01-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2198,
+      "date": "2031-01-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2205,
+      "date": "2031-01-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2212,
+      "date": "2031-01-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2219,
+      "date": "2031-01-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2226,
+      "date": "2031-02-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2233,
+      "date": "2031-02-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2240,
+      "date": "2031-02-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2247,
+      "date": "2031-02-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2254,
+      "date": "2031-03-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2261,
+      "date": "2031-03-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2268,
+      "date": "2031-03-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2275,
+      "date": "2031-03-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2282,
+      "date": "2031-04-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2289,
+      "date": "2031-04-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2296,
+      "date": "2031-04-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2303,
+      "date": "2031-04-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2310,
+      "date": "2031-05-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2317,
+      "date": "2031-05-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2324,
+      "date": "2031-05-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2331,
+      "date": "2031-05-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2338,
+      "date": "2031-05-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2345,
+      "date": "2031-06-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2352,
+      "date": "2031-06-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2359,
+      "date": "2031-06-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2366,
+      "date": "2031-06-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2373,
+      "date": "2031-07-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2380,
+      "date": "2031-07-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2387,
+      "date": "2031-07-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2394,
+      "date": "2031-07-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2401,
+      "date": "2031-07-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2408,
+      "date": "2031-08-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2415,
+      "date": "2031-08-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2422,
+      "date": "2031-08-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2429,
+      "date": "2031-08-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2436,
+      "date": "2031-09-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2443,
+      "date": "2031-09-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2450,
+      "date": "2031-09-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2457,
+      "date": "2031-09-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2464,
+      "date": "2031-10-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2471,
+      "date": "2031-10-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2478,
+      "date": "2031-10-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2485,
+      "date": "2031-10-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2492,
+      "date": "2031-10-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2499,
+      "date": "2031-11-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2506,
+      "date": "2031-11-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2513,
+      "date": "2031-11-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2520,
+      "date": "2031-11-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2527,
+      "date": "2031-12-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2534,
+      "date": "2031-12-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2541,
+      "date": "2031-12-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2548,
+      "date": "2031-12-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2555,
+      "date": "2032-01-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2562,
+      "date": "2032-01-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2569,
+      "date": "2032-01-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2576,
+      "date": "2032-01-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2583,
+      "date": "2032-01-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2590,
+      "date": "2032-02-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2597,
+      "date": "2032-02-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2604,
+      "date": "2032-02-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2611,
+      "date": "2032-02-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2618,
+      "date": "2032-03-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2625,
+      "date": "2032-03-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2632,
+      "date": "2032-03-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2639,
+      "date": "2032-03-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2646,
+      "date": "2032-04-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2653,
+      "date": "2032-04-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2660,
+      "date": "2032-04-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2667,
+      "date": "2032-04-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2674,
+      "date": "2032-04-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2681,
+      "date": "2032-05-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2688,
+      "date": "2032-05-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2695,
+      "date": "2032-05-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2702,
+      "date": "2032-05-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2709,
+      "date": "2032-06-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2716,
+      "date": "2032-06-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2723,
+      "date": "2032-06-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2730,
+      "date": "2032-06-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2737,
+      "date": "2032-07-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2744,
+      "date": "2032-07-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2751,
+      "date": "2032-07-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2758,
+      "date": "2032-07-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2765,
+      "date": "2032-07-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2772,
+      "date": "2032-08-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2779,
+      "date": "2032-08-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2786,
+      "date": "2032-08-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2793,
+      "date": "2032-08-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2800,
+      "date": "2032-09-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2807,
+      "date": "2032-09-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2814,
+      "date": "2032-09-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2821,
+      "date": "2032-09-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2828,
+      "date": "2032-09-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2835,
+      "date": "2032-10-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2842,
+      "date": "2032-10-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2849,
+      "date": "2032-10-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2856,
+      "date": "2032-10-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2863,
+      "date": "2032-11-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2870,
+      "date": "2032-11-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2877,
+      "date": "2032-11-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2884,
+      "date": "2032-11-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2891,
+      "date": "2032-12-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2898,
+      "date": "2032-12-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2905,
+      "date": "2032-12-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2912,
+      "date": "2032-12-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2919,
+      "date": "2032-12-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2926,
+      "date": "2033-01-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2933,
+      "date": "2033-01-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2940,
+      "date": "2033-01-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2947,
+      "date": "2033-01-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2954,
+      "date": "2033-02-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2961,
+      "date": "2033-02-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2968,
+      "date": "2033-02-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2975,
+      "date": "2033-02-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2982,
+      "date": "2033-03-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2989,
+      "date": "2033-03-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 2996,
+      "date": "2033-03-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3003,
+      "date": "2033-03-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3010,
+      "date": "2033-03-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3017,
+      "date": "2033-04-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3024,
+      "date": "2033-04-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3031,
+      "date": "2033-04-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3038,
+      "date": "2033-04-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3045,
+      "date": "2033-05-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3052,
+      "date": "2033-05-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3059,
+      "date": "2033-05-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3066,
+      "date": "2033-05-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3073,
+      "date": "2033-06-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3080,
+      "date": "2033-06-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3087,
+      "date": "2033-06-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3094,
+      "date": "2033-06-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3101,
+      "date": "2033-06-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3108,
+      "date": "2033-07-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3115,
+      "date": "2033-07-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3122,
+      "date": "2033-07-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3129,
+      "date": "2033-07-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3136,
+      "date": "2033-08-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3143,
+      "date": "2033-08-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3150,
+      "date": "2033-08-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3157,
+      "date": "2033-08-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3164,
+      "date": "2033-09-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3171,
+      "date": "2033-09-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3178,
+      "date": "2033-09-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3185,
+      "date": "2033-09-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3192,
+      "date": "2033-09-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3199,
+      "date": "2033-10-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3206,
+      "date": "2033-10-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3213,
+      "date": "2033-10-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3220,
+      "date": "2033-10-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3227,
+      "date": "2033-11-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3234,
+      "date": "2033-11-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3241,
+      "date": "2033-11-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3248,
+      "date": "2033-11-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3255,
+      "date": "2033-12-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3262,
+      "date": "2033-12-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3269,
+      "date": "2033-12-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3276,
+      "date": "2033-12-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3283,
+      "date": "2033-12-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3290,
+      "date": "2034-01-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3297,
+      "date": "2034-01-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3304,
+      "date": "2034-01-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3311,
+      "date": "2034-01-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3318,
+      "date": "2034-02-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3325,
+      "date": "2034-02-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3332,
+      "date": "2034-02-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3339,
+      "date": "2034-02-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3346,
+      "date": "2034-03-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3353,
+      "date": "2034-03-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3360,
+      "date": "2034-03-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3367,
+      "date": "2034-03-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3374,
+      "date": "2034-03-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3381,
+      "date": "2034-04-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3388,
+      "date": "2034-04-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3395,
+      "date": "2034-04-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3402,
+      "date": "2034-04-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3409,
+      "date": "2034-05-04",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3416,
+      "date": "2034-05-11",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3423,
+      "date": "2034-05-18",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3430,
+      "date": "2034-05-25",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3437,
+      "date": "2034-06-01",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3444,
+      "date": "2034-06-08",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3451,
+      "date": "2034-06-15",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3458,
+      "date": "2034-06-22",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3465,
+      "date": "2034-06-29",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3472,
+      "date": "2034-07-06",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3479,
+      "date": "2034-07-13",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3486,
+      "date": "2034-07-20",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3493,
+      "date": "2034-07-27",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3500,
+      "date": "2034-08-03",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3507,
+      "date": "2034-08-10",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3514,
+      "date": "2034-08-17",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3521,
+      "date": "2034-08-24",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3528,
+      "date": "2034-08-31",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3535,
+      "date": "2034-09-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3542,
+      "date": "2034-09-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3549,
+      "date": "2034-09-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3556,
+      "date": "2034-09-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3563,
+      "date": "2034-10-05",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3570,
+      "date": "2034-10-12",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3577,
+      "date": "2034-10-19",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3584,
+      "date": "2034-10-26",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3591,
+      "date": "2034-11-02",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3598,
+      "date": "2034-11-09",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3605,
+      "date": "2034-11-16",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3612,
+      "date": "2034-11-23",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3619,
+      "date": "2034-11-30",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3626,
+      "date": "2034-12-07",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3633,
+      "date": "2034-12-14",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3640,
+      "date": "2034-12-21",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    },
+    {
+      "day": 3647,
+      "date": "2034-12-28",
+      "population": 200,
+      "total_wealth": 0,
+      "average_happiness": 0.0
+    }
+  ],
+  "weekly_stats": [],
+  "monthly_stats": []
+}

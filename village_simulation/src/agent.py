@@ -33,8 +33,7 @@ class VillageResident(Agent):
         personality: Personality,
         skills: Skills
     ):
-        super().__init__(model)
-        self.unique_id = unique_id
+        super().__init__(unique_id, model)
         self.demographics = demographics
         self.personality = personality
         self.skills = skills
